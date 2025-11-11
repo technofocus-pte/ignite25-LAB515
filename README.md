@@ -47,15 +47,15 @@ By the end of this lab, you will be able to:
 
 ### 📘 Lab Structure
 
-|Folder                |Description                                             |
-|----------------------|--------------------------------------------------------|
-|lab/                  |Core Jupyter notebooks and sample scripts               |
-|data/                 |Sample dataset (cases.csv) for legal research queries   |
-|src/                  |Source code for agents, plugins, and database connectors|
-|docs/                 |Step-by-step lab manual and architecture guide          |
-|img/                  |Architecture and concept diagrams                       |
-|.devcontainer/        |Preconfigured environment for VS Code                   |
-|infra/ (if applicable)|Deployment templates (Bicep + PowerShell scripts)       |
+|Folder                |Description                                               |
+|----------------------|----------------------------------------------------------|
+|`lab/`                  |Core Jupyter notebooks and sample scripts               |
+|`data/`                 |Sample dataset (cases.csv) for legal research queries   |
+|`src/`                  |Source code for agents, plugins, and database connectors|
+|`docs/`                 |Step-by-step lab manual and architecture guide          |
+|`img/`                  |Architecture and concept diagrams                       |
+|`.devcontainer/`        |Preconfigured environment for VS Code                   |
+|`infra/` (if applicable)|Deployment templates (Bicep + PowerShell scripts)       |
 
 ### 🚀 Getting Started
 
