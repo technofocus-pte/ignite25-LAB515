@@ -6,9 +6,6 @@
 
 ## 🔥LAB515: Build advanced AI Agents with PostgreSQL
 
-[![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)
-[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/foundry/forum)
-
 ### 🧠 Session Description
 
 In this hands-on lab, you’ll build an AI-powered legal research assistant that reasons over real-world case law data using PostgreSQL and Microsoft Agent Framework.
@@ -26,13 +23,14 @@ By the end of this lab, you will be able to:
 
 ### 💻 Technologies Used
 
-1. Azure Database for PostgreSQL Flexible Server (with AI extensions)
-1. Microsoft Agent Framework (for agent orchestration)
-1. Azure OpenAI Service (embeddings + LLM completions)
-1. Python (agent runtime and notebook execution)
-1. Apache `AGE` (for graph storage and reasoning)
-1. `DiskANN` (for fast approximate vector similarity search)
-1. VS Code PostgreSQL Extension (for hands-on queries and debugging)
+1. **[Azure Database for PostgreSQL Flexible Server](https://learn.microsoft.com/azure/postgresql/flexible-server/overview)** (with AI extensions)
+2. **[Microsoft Agent Framework](https://learn.microsoft.com/azure/ai-services/agent-framework/overview)** (for agent orchestration)
+3. **[Azure OpenAI Service](https://learn.microsoft.com/azure/ai-services/openai/overview)** (embeddings + LLM completions)
+4. **[Python](https://www.python.org/)** (agent runtime and notebook execution)
+5. **[Apache AGE](https://age.apache.org/)** (for graph storage and reasoning)
+6. **[DiskANN](https://github.com/microsoft/DiskANN)** (for fast approximate vector similarity search)
+7. **[VS Code PostgreSQL Extension](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql)** (for hands-on queries and debugging)
+
 
 ### 🏗️ Architecture
 
@@ -74,7 +72,6 @@ By the end of this lab, you will be able to:
 |`Scripts/`              |Source code for agents, plugins, and database connectors|
 |`Docs/`                 |Step-by-step lab manual and architecture guide          |
 |`Docs/images`           |Architecture and concept diagrams                       |
-|`.devcontainer/`        |Preconfigured environment for VS Code                   |
 |`infra/`                |Deployment templates (Bicep + PowerShell scripts)       |
 
 ### 🚀 Getting Started
@@ -111,10 +108,10 @@ Open `Code/lab.ipynb` in Visual Studio Code and follow the guided steps to:
 
 |Resource                |Link                                |Description                                    |
 |------------------------|------------------------------------|-----------------------------------------------|
-|Ignite 2025 Next Steps  |[https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl)  |Links to all repos for Ignite 2025 Sessions   |
-|Azure AI Foundry Discord|https://aka.ms/azureaifoundrydiscord|Connect with the Azure AI Foundry team         |
+|Ignite 2025 Next Steps  |https://aka.ms/Ignite25-Next-Steps  |Links to all repos for Ignite 2025 Sessions    |
 |Learn at Ignite         |https://aka.ms/LearnAtIgnite        |Continue learning on Microsoft Learn           |
-|GraphRAG for PostgreSQL |aka.ms/GraphRAG-PG                  |Learn how to add graph intelligence to Postgres|
+|GraphRAG for PostgreSQL |https://aka.ms/pg-graphrag          |Learn how to add graph intelligence to Postgres|
+|VS Code PostgreSQL Extension|https://aka.ms/pgsql-vscode     |Learn more about the PostgreSQL extension      |
 
 ## Content Owners
 
