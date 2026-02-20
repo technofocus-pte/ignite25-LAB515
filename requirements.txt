@@ -3,7 +3,8 @@ psycopg-binary
 psycopg-pool
 pydantic
 openai
-agent-framework
+agent-framework=1.0.0b251114
+agent-framework-core=1.0.0b251114
 nest_asyncio
 ipykernel
 python-dotenv
