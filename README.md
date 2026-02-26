@@ -145,6 +145,10 @@ Open `Code/lab.ipynb` in Visual Studio Code and follow the guided steps to:
 </table>
 
 
+## 🚀 Try Azure for Free!
+
+Ready to build, experiment, or scale your next project? Kick things off with an Azure Free Trial and get access to popular services, generous monthly credits, and the tools you need to ship fast. 👉 Start your free journey here: https://aka.ms/devrelft
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
